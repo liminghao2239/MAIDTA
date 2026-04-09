@@ -1,0 +1,12 @@
+torch>=2.0
+torchvision
+torchaudio
+rdkit-pypi
+numpy
+pandas
+scikit-learn
+tqdm
+matplotlib
+seaborn
+biopython
+fair-esm
