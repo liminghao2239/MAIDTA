@@ -1,5 +1,5 @@
-# MDNN-DTA
-A multimodal deep neural network for drug-target affinity prediction
+# MAIDTA
+an interpretable attention-based multi-modal model for drug-target affinity prediction
 
 ## Datasets
 We used two accepted benchmark datasets and one additional dataset to validate the model's generalization ability and prediction accuracy. They can be found at the following link.
