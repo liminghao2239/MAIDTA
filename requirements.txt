@@ -1,0 +1,10 @@
+torch>=1.13.0
+torch-geometric>=2.3.0
+rdkit-pypi
+numpy
+pandas
+scikit-learn
+scipy
+fair-esm
+biopython
+tqdm
